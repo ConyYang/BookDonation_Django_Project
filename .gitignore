@@ -1,0 +1,6 @@
+.idea
+venv
+BookDonate/BookDonate/__pycache__
+../__pycache__/
+BookDonate/donators/__pycache__/
+BookDonate/donators/migrations/__pycache__/
